@@ -1,0 +1,4 @@
+auletch_community:
+    resource: "@AULETCHCommunityBundle/Resources/config/routing.yml"
+    prefix:   /
+

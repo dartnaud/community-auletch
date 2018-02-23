@@ -1,0 +1,3 @@
+auletch_community_homepage:
+    path:     /
+    defaults: { _controller: AULETCHCommunityBundle:Homepage:index }
